@@ -1,2 +1,2 @@
 # Yuchen-G.github.io
-SI339 Repo
+SI339 Main
